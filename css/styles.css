@@ -14,20 +14,20 @@
 }
 
 a {
-  color: crimson;
+  color: #6b02f5;
 }
 
 h1 {
-  color: red;
+  color: #6b02f5;
   text-align: center;
 }
 
 h2 {
-  color: red;
+  color: #6b02f5;
   text-align: center;
 }
 
 body {
-  background-color: rgb(38, 29, 207);
+  background-color: rgb(228, 224, 11);
   /* background-color: blue; */
 }
