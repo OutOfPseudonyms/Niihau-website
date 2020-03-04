@@ -1,0 +1,33 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.center-text {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+a {
+  color: crimson;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(38, 29, 207);
+  /* background-color: blue; */
+}
